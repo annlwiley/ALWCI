@@ -10,3 +10,5 @@ Another new paragraph.
 - Another bullet  
 
 A new paragraph after a bullet.
+## A second level two heading.
+Additional text
